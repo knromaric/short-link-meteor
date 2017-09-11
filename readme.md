@@ -1,6 +1,6 @@
 # Short link app
 
-how to use my app
+This is a link shortener build on Meteor and React
 
 ## Authors
 
