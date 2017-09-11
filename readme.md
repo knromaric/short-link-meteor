@@ -1,5 +1,7 @@
-Short link app documentation
+# Short link app
 
-how to use my app.
+how to use my app
 
-Meteor/ React to app
+## Authors
+
+Romaric
